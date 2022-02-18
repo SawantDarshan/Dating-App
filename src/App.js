@@ -1,6 +1,6 @@
 import { useState } from "react";
 import "./App.css";
-import Login from "./modules/pop_ups/login/Login";
+import Login from "./modules/pop_ups/signUp/SignUp";
 
 function App() {
   let [user, setUser] = useState(false);
